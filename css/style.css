@@ -1,0 +1,18 @@
+h1 {
+  color: tomato;
+  font-size: 36px;
+  text-transform: uppercase;
+  margin-top: 100px;
+
+  display: inline-flex;
+  justify-content: center;
+
+  cursor: pointer;
+}
+header {
+  text-align: center;
+}
+.header {
+  color: blueviolet;
+  font-size: 3em;
+}
