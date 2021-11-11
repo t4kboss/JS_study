@@ -9,10 +9,10 @@ h1 {
 
   cursor: pointer;
 }
-header {
+div {
   text-align: center;
 }
 .header {
   color: blueviolet;
-  font-size: 3em;
+  font-size: 3rem;
 }
