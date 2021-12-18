@@ -48,7 +48,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const genre = document.querySelector(".promo__genre");
   const bg = document.querySelector(".promo__bg");
   const movieList = document.querySelector(".promo__interactive-list");
-  const formBtn = document.querySelector("button");
   const addForm = document.querySelector("form.add");
   const addInput = addForm.querySelector(".adding__input");
   const checkbox = addForm.querySelector("[type='checkbox']");
